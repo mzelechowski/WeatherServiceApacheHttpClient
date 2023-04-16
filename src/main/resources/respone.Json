@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 20.886,
+    "lat": 52.3341
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 9.63,
+    "feels_like": 8.02,
+    "temp_min": 8.15,
+    "temp_max": 11.72,
+    "pressure": 1017,
+    "humidity": 83
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.09,
+    "deg": 100
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1681633576,
+  "sys": {
+    "type": 2,
+    "id": 2000992,
+    "country": "PL",
+    "sunrise": 1681616261,
+    "sunset": 1681666476
+  },
+  "timezone": 7200,
+  "id": 766042,
+  "name": "Łomianki",
+  "cod": 200
+}
